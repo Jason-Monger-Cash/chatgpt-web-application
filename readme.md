@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/77344191/223635130-afb01b51-98ee-45c6-
 ### Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/ioanmo226/chatgpt-web-application
+git clone https://github.com/ioanmo226/chatgpt-web-application](https://github.com/Jason-Monger-Cash/chatgpt-web-application.git
 ```
 2. Install the dependencies:
 ```sh
